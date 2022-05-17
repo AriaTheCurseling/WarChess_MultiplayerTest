@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83e0dce90eb709243967e64171512ad5, type: 3}
+  m_Name: Queen
+  m_EditorClassIdentifier: 
+  <Sprite>k__BackingField: {fileID: 537493452735942380, guid: d85774c12a261124f9c0bd3379d97d45, type: 3}
+  <Moves>k__BackingField:
+  - {fileID: 11400000, guid: e571b44acba80d24b97a73daed9c969a, type: 2}
+  - {fileID: 11400000, guid: 76fa2970e144fd9419e3821502f1de97, type: 2}
